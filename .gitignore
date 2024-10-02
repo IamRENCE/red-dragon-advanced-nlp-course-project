@@ -1,0 +1,11 @@
+# Ignore Windows batch files
+*.bat
+
+# Ignore the 'output' directory
+output/
+
+# Ignore the 'models' directory
+models/
+
+# Ignore the '.ipynb_checkpoints' directory
+.ipynb_checkpoints/
